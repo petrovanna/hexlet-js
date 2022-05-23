@@ -1,4 +1,13 @@
-{ "type": "module",
+{ "name": "hexlet-js",
+  "version": "8.5.5",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna Petrova",
+  "license": "ISC",
+  "type": "module",
+  "description": "My first project",
   "dependencies": {
     "lodash": "^4.17.21"
   }
